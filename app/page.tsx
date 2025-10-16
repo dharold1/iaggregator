@@ -147,12 +147,12 @@ export default function Home() {
             <div className="bg-white dark:bg-gray-800 p-8 rounded-2xl shadow-lg hover-lift">
               <Image
                 src="https://images.unsplash.com/photo-1657653465625-e3ea585e5c1e?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Software Development"
+                alt="Custom Software Development"
                 width={300}
                 height={200}
                 className="w-full h-48 object-cover rounded-lg mb-6"
               />
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-4">Software Development</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-4">Custom Software Development</h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
                 Custom software solutions built with modern technologies and best practices.
               </p>
@@ -167,12 +167,12 @@ export default function Home() {
             <div className="bg-white dark:bg-gray-800 p-8 rounded-2xl shadow-lg hover-lift">
               <Image
                 src="https://images.unsplash.com/photo-1667984390538-3dea7a3fe33d?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Cloud Computing"
+                alt="Cloud Solutions & Consulting"
                 width={300}
                 height={200}
                 className="w-full h-48 object-cover rounded-lg mb-6"
               />
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-4">Cloud Computing</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-4">Cloud Solutions & Consulting</h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
                 Scalable cloud infrastructure and migration services for modern businesses.
               </p>
@@ -187,12 +187,12 @@ export default function Home() {
             <div className="bg-white dark:bg-gray-800 p-8 rounded-2xl shadow-lg hover-lift">
               <Image
                 src="https://images.unsplash.com/photo-1629904853716-f0bc54eea481?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Data Analytics"
+                alt="Data Analytics & Research"
                 width={300}
                 height={200}
                 className="w-full h-48 object-cover rounded-lg mb-6"
               />
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-4">Data Analytics</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-4">Data Analytics & Research</h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
                 Transform your data into actionable insights with advanced analytics solutions.
               </p>
@@ -207,20 +207,20 @@ export default function Home() {
             <div className="bg-white dark:bg-gray-800 p-8 rounded-2xl shadow-lg hover-lift">
               <Image
                 src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="IT Consulting"
+                alt="Managed IT Services"
                 width={300}
                 height={200}
                 className="w-full h-48 object-cover rounded-lg mb-6"
               />
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-4">IT Consulting</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-4">Managed IT Services</h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
-                Strategic technology consulting to optimize your IT infrastructure and processes.
+                Proactive, end-to-end management of your IT operations and infrastructure.
               </p>
               <ul className="text-sm text-gray-500 dark:text-gray-400 space-y-2">
-                <li>• Technology Strategy</li>
-                <li>• Process Optimization</li>
-                <li>• Digital Transformation</li>
-                <li>• IT Governance</li>
+                <li>• 24/7 Monitoring</li>
+                <li>• Help Desk Support</li>
+                <li>• Patch Management</li>
+                <li>• Network Management</li>
               </ul>
             </div>
           </div>
@@ -243,47 +243,49 @@ export default function Home() {
             <div className="text-center hover-lift">
               <Image
                 src="https://images.unsplash.com/photo-1605980776566-0486c3ac7617?q=80&w=449&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="John Smith - CEO"
+                alt="Samuel Jacob - CEO"
                 width={300}
                 height={300}
                 className="w-64 h-64 object-cover rounded-full mx-auto mb-6 shadow-lg"
               />
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-2">John Smith</h3>
-              <p className="text-blue-600 font-medium mb-4">Chief Executive Officer</p>
-              <p className="text-gray-600 dark:text-gray-300">
-                Visionary leader with 15+ years in technology and business transformation.
-              </p>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-2">Samuel Jacob</h3>
+             
             </div>
             
             <div className="text-center hover-lift">
               <Image
                 src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=388&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Sarah Johnson - CTO"
+                alt="Francis Gideon Kema - CTO"
                 width={300}
                 height={300}
                 className="w-64 h-64 object-cover rounded-full mx-auto mb-6 shadow-lg"
               />
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-2">Sarah Johnson</h3>
-              <p className="text-blue-600 font-medium mb-4">Chief Technology Officer</p>
-              <p className="text-gray-600 dark:text-gray-300">
-                Technology expert specializing in cloud architecture and digital innovation.
-              </p>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-2">Francis Gideon Kema</h3>
+            
             </div>
             
             <div className="text-center hover-lift">
               <Image
                 src="https://images.unsplash.com/photo-1525665363629-cdf85a703b50?q=80&w=327&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Mike Chen - Lead Developer"
+                alt="Joseph Sani Sahjury - Lead Developer"
                 width={300}
                 height={300}
                 className="w-64 h-64 object-cover rounded-full mx-auto mb-6 shadow-lg"
               />
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-2">Mike Chen</h3>
-              <p className="text-blue-600 font-medium mb-4">Lead Developer</p>
-              <p className="text-gray-600 dark:text-gray-300">
-                Full-stack developer with expertise in modern web technologies and frameworks.
-              </p>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-2">Joseph Sani Sahjury</h3>
+             
             </div>
+          </div>
+          
+          {/* Additional team members listed under boss (no images) */}
+          <div className="mt-12 max-w-3xl mx-auto text-center">
+            <h4 className="text-lg font-semibold text-gray-800 dark:text-white mb-4">Other Team Members</h4>
+            <ul className="text-gray-600 dark:text-gray-300 space-y-2">
+              <li>Habiba Abubakar</li>
+              <li>Hauwa muhammad sani</li>
+              <li>Farida kabir Lawal</li>
+              <li>Aliyu Nasir</li>
+            </ul>
           </div>
         </div>
       </section>
@@ -322,7 +324,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-white">Phone</h3>
-                  <p className="text-blue-100">+1 (555) 123-4567</p>
+                  <p className="text-blue-100">+2348162908970</p>
                 </div>
               </div>
               
@@ -335,7 +337,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-white">Address</h3>
-                  <p className="text-blue-100">123 Tech Street, Innovation City, IC 12345</p>
+                  <p className="text-blue-100">PLOT 2 David Street Bayelsa State</p>
                 </div>
               </div>
             </div>
@@ -419,10 +421,10 @@ export default function Home() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Services</h4>
               <ul className="space-y-2 text-gray-400">
-                <li><a href="#" className="hover:text-white transition-colors">Software Development</a></li>
-                <li><a href="#" className="hover:text-white transition-colors">Cloud Solutions</a></li>
-                <li><a href="#" className="hover:text-white transition-colors">Data Analytics</a></li>
-                <li><a href="#" className="hover:text-white transition-colors">IT Consulting</a></li>
+                <li><a href="#" className="hover:text-white transition-colors">Data Analytics & Research</a></li>
+                <li><a href="#" className="hover:text-white transition-colors">Cloud Solutions & Consulting</a></li>
+                <li><a href="#" className="hover:text-white transition-colors">Managed IT Services</a></li>
+                <li><a href="#" className="hover:text-white transition-colors">Custom Software Development</a></li>
               </ul>
             </div>
             
@@ -439,9 +441,9 @@ export default function Home() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
               <div className="space-y-2 text-gray-400">
-                <p>123 Tech Street</p>
-                <p>Innovation City, IC 12345</p>
-                <p>+1 (555) 123-4567</p>
+                <p>PLOT 2 David Street</p>
+                <p>Bayelsa State</p>
+                <p>+2348162908970</p>
                 <p>contact@iaggregators.com</p>
               </div>
             </div>
