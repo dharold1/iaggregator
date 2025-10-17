@@ -242,8 +242,8 @@ export default function Home() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="text-center hover-lift">
               <Image
-                src="https://images.unsplash.com/photo-1605980776566-0486c3ac7617?q=80&w=449&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Samuel Jacob - CEO"
+                src="https://images.unsplash.com/photo-1525665363629-cdf85a703b50?q=80&w=327&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="Samuel Jacob"
                 width={300}
                 height={300}
                 className="w-64 h-64 object-cover rounded-full mx-auto mb-6 shadow-lg"
@@ -254,8 +254,8 @@ export default function Home() {
             
             <div className="text-center hover-lift">
               <Image
-                src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=388&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Francis Gideon Kema - CTO"
+                src="https://images.unsplash.com/photo-1581382575275-97901c2635b7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=387"
+                alt="Francis Gideon Kema"
                 width={300}
                 height={300}
                 className="w-64 h-64 object-cover rounded-full mx-auto mb-6 shadow-lg"
@@ -266,8 +266,8 @@ export default function Home() {
             
             <div className="text-center hover-lift">
               <Image
-                src="https://images.unsplash.com/photo-1525665363629-cdf85a703b50?q=80&w=327&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Joseph Sani Sahjury - Lead Developer"
+                src="https://images.unsplash.com/photo-1605980776566-0486c3ac7617?q=80&w=449&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="Joseph Sani Sahjury"
                 width={300}
                 height={300}
                 className="w-64 h-64 object-cover rounded-full mx-auto mb-6 shadow-lg"
